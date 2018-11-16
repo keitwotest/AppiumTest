@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ed0f07c-1815-4502-81c1-5ef5556360f4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/report/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/report/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/公共关键字/公共关键字.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/环境配置/环境配置.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/登录Zen平台测试用例/用cookies登录.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookies登录Zen平台/登录Zen平台测试用例/首先获取登录的cookies值.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF+Appium之APP自动化实战/1-测试用例/测试用例.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF+Appium之APP自动化实战/2-业务关键字/业务关键字.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF+Appium之APP自动化实战/3-公共关键字/公共关键字.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF+Appium之APP自动化实战/4-环境配置/APP参数.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF+Appium之APP自动化实战/4-环境配置/__init__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF+request/测试用例/testrequest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF调用脚本和指令/DOS.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF调用脚本和指令/report/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF调用脚本和指令/report/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF调用脚本和指令/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RF调用脚本和指令/测试用例/RF调用python脚本.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/CM01/CM01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/CM01/CM01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/BY-LHZ-bootanimation/part0/011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/K21C1120180801OK.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/kernel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/uboot.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/yuyinhuanxingci.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/yuyinhuanxingci/aios.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/yuyinhuanxingci/aios.provision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/yuyinhuanxingci/wechat.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/使用说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/BY-LHZ/公众号机构代码等信息.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/K21_20180305_OK.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/LJ-A88-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/LJ-A88-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/LJ-A88-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/kernel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation/part0/0029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/lejia-bootanimation1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/uboot.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/LJ-A88/小乐.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/MB-M70/MB-M70-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/MB-M70/MB-M70-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/MB-M70/MB-M70-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/VST-S6/VST-S6-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/VST-S6/VST-S6-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/VST-S6/VST-S6-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/K21C1120180801OK.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/YZ-S9-ZXLMT-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/YZ-S9-ZXLMT-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/YZ-S9-ZXLMT-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/bootanimation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/kernel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/uboot.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/K21/YZ-S9-ZXLMT/小达.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/MK21OK.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/YZ-ZX-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/YZ-ZX-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/YZ-ZX-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/bootanimation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/kernel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/uboot.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK21/YZ-ZX/小达.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/BY-s770m/BY-s770m-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/BY-s770m/BY-s770m-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/BY-s770m/BY-s770m-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-A2/LJ-A2-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-A2/LJ-A2-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-A2/LJ-A2-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/K21yinping20180305OK.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/LJ-C900S-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/LJ-C900S-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/LJ-C900S-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/kernel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/lejia-bootanimation/part0/0029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/uboot.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/小乐.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/小乐/小乐/aios.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/小乐/小乐/aios.provision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/LJ-C900S/小乐/小乐/wechat.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/VST-CA01/VST-CA01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/VST-CA01/VST-CA01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/XMWJ/MK26/VST-CA01/VST-CA01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/Zen平台问题汇总.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/zen平台工作交接文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/1400.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_bom_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_bom_item_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_bom_item_value_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_configuration_item_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_configuration_item_action_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_configuration_item_value_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_dict_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_dict_value_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_operation_history_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_project_template_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_project_template_detail_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_project_template_tree_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_user_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/clw_Tabledata_zen_user_cols_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN_mysql/zen.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/ZEN平台功能测试用例 .xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/Zen 平台 Sprint0 原型图4.8.rp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/Zen 平台 Sprint0 原型图5.0.rp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/Zen 平台WEB 端功能流程图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/Zen 平台迭代1 页面流程图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/default(1).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/default(2).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/json1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/json1/.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/不同角色的项目权限规则.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/开机动画制作.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/开机图片/kernel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/交接事项/开机图片/uboot.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/JIRA登录验证python脚本/loadercheckTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/JIRA登录验证python脚本/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/Zen平台/业务关键字/CCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/Zen平台/公共关键字/公共关键字.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/Zen平台/测试用例/Zen平台冒烟测试用例.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/Zen平台/环境配置/测试环境.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZEN平台主流程测试脚本/report/selenium-screenshot-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/ZEN.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_bom_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_bom_item_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_bom_item_value_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_configuration_item_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_configuration_item_action_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_configuration_item_value_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_dict_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_dict_value_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_operation_history_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_project_template_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_project_template_detail_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_project_template_tree_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_user_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/ZenDB/clw_Tabledata_zen_user_cols_MySQLServer20180911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/用户并发登录压力测试.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/用户并发登录并发测试.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zenportal/脚本文件/用户登录接口测试.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_my_excel/file.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_my_excel/report/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_my_excel/report/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_my_excel/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_my_excel/测试用例/test_forexcel.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/appium_test$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1536052167152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1800644488">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_case/test_login.py" />
+        <option value="$PROJECT_DIR$/test_case/test_logout.py" />
+        <option value="$PROJECT_DIR$/config/driver_configure.py" />
+        <option value="$PROJECT_DIR$/runtest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="44" />
+    <option name="y" value="74" />
+    <option name="width" value="1071" />
+    <option name="height" value="869" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="appium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_test" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="runtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed0f07c-1815-4502-81c1-5ef5556360f4" name="Default" comment="" />
+      <created>1536049232077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536049232077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2603352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/report/2018-09-05 09_14_21result.html" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_logout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/driver_configure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
